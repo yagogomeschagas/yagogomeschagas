@@ -8,16 +8,16 @@ Construo aplicativos que resolvem problemas do dia a dia: mobilidade urbana, sa�
 
 | Área | Stack |
 |---|---|
-| **Mobile** | Kotlin · Android |
-| **Web / Back-end** | TypeScript |
+| **Mobile** | Kotlin · Android · Google Maps SDK |
+| **Web / Back-end** | TypeScript · Firebase (Authentication) |
 | **IA** | Integração de IA em aplicações |
 | **Ferramentas** | Git · GitHub |
 
 ## 🚀 Projetos em destaque
 
 ### 🚌 [BusTrack Manaus](https://github.com/yagogomeschagas/BusTrack-Manaus)
-Aplicativo Android para monitorar a localização e a rota de ônibus.
-**Stack:** Kotlin
+Rastreamento em tempo real do transporte fretado do Polo Industrial de Manaus, com fluxos separados para passageiro e motorista. Mostra o ônibus no mapa e calcula o tempo estimado de chegada. *Projeto em desenvolvimento.*
+**Stack:** Kotlin · Firebase Authentication · Google Maps SDK
 
 ## 📫 Contato
 
